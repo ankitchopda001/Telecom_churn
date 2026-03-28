@@ -1,5 +1,3 @@
-﻿# Telecom_churn
-
 # Telecom Churn Prediction
 
 ## 📊 Project Overview
